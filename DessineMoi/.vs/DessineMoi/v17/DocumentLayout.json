@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\dessine moi\\dessinemoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\dessine moi\\dessinemoi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T01:11:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-07T23:09:37.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T23:09:37.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAE4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T22:31:13.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T22:31:13.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T22:29:51.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T22:29:51.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
