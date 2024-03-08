@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\dessine moi\\dessinemoi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\dessine moi\\dessinemoi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\dessine moi\\dessinemoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|c:\\users\\cjbow\\onedrive\\documents\\coding\\projects\\source\\repos\\c# projects\\dessine moi\\dessinemoi\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E3CA296-5A04-4AC0-AA79-ECD9701B0167}|DessineMoi.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-07T23:09:37.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAE4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T22:31:13.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T22:29:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T22:28:54.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
