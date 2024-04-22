@@ -28,3 +28,4 @@ C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\Dessi
 C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\Dessine Moi\DessineMoi\obj\Debug\net8.0\DessineMoi.pdb
 C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\Dessine Moi\DessineMoi\obj\Debug\net8.0\DessineMoi.genruntimeconfig.cache
 C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\Dessine Moi\DessineMoi\obj\Debug\net8.0\ref\DessineMoi.dll
+C:\Users\CjBow\OneDrive\Documents\Coding\Projects\source\repos\C# Projects\Dessine Moi\DessineMoi\obj\Debug\net8.0\DessineMoi.sourcelink.json

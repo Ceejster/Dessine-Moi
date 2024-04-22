@@ -1,4 +1,14 @@
-﻿window.addEventListener('DOMContentLoaded', event => {
+﻿function removeShowClassFromNavbar() {
+    var navbarResponsive = document.getElementById('navbarResponsive');
+
+    if (navbarResponsive && navbarResponsive.classList.contains('show')) {
+        navbarResponsive.classList.remove('show');
+    }
+}
+
+removeShowClassFromNavbar();
+
+window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
     var navbarShrink = function () {

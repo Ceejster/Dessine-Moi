@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DessineMoi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d6c347944bcc4e8266d276a2cb1fdc9c10675de")]
 [assembly: System.Reflection.AssemblyProductAttribute("DessineMoi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DessineMoi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

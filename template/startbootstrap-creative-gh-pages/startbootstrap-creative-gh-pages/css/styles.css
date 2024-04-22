@@ -1,4 +1,5 @@
 
+
 .container,
 .container-fluid,
 .container-xxl,
@@ -1076,6 +1077,66 @@
     color: #f4623a;
   }
 }
+
+
+
+
+
+
+
+
+
+
+/* maybe
+
+@media (min-width: 1200px) {
+  .fs-1 {
+    font-size: 2.5rem !important;
+  }
+  .fs-2 {
+    font-size: 2rem !important;
+  }
+  .fs-3 {
+    font-size: 1.75rem !important;
+  }
+  .fs-4 {
+    font-size: 1.5rem !important;
+  }
+}
+@media print {
+  .d-print-inline {
+    display: inline !important;
+  }
+  .d-print-inline-block {
+    display: inline-block !important;
+  }
+  .d-print-block {
+    display: block !important;
+  }
+  .d-print-grid {
+    display: grid !important;
+  }
+  .d-print-table {
+    display: table !important;
+  }
+  .d-print-table-row {
+    display: table-row !important;
+  }
+  .d-print-table-cell {
+    display: table-cell !important;
+  }
+  .d-print-flex {
+    display: flex !important;
+  }
+  .d-print-inline-flex {
+    display: inline-flex !important;
+  }
+  .d-print-none {
+    display: none !important;
+  }
+}
+*/
+
 
 
 

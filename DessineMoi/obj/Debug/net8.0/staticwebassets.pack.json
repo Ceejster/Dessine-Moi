@@ -5,6 +5,134 @@
       "PackagePath": "staticwebassets\\DessineMoi.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Gallery1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery10.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery10.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery11.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery11.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery12.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery12.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery13.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery13.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery14.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery14.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery15.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Gallery15.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery17.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Gallery17.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery18.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery18.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery19.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Gallery19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery2.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery2.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery20.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Gallery20.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery21.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery21.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery3.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery3.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery4.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery4.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery5.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery5.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery6.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery6.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery7.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery7.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery8.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery8.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\Gallery9.png",
+      "PackagePath": "staticwebassets\\assets\\Gallery9.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\bookmark1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\bookmark1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\bookmark2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\bookmark2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\bookmark3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\bookmark3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\feat1.png",
+      "PackagePath": "staticwebassets\\assets\\feat1.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\feat2.png",
+      "PackagePath": "staticwebassets\\assets\\feat2.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\feat3.png",
+      "PackagePath": "staticwebassets\\assets\\feat3.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\feat4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\feat4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\hero.png",
+      "PackagePath": "staticwebassets\\assets\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\print1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\print1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\self.jpeg",
+      "PackagePath": "staticwebassets\\assets\\self.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\sticker1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\sticker1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\assets\\sticker2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\sticker2.jpeg"
+    },
+    {
       "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -243,6 +371,30 @@
     {
       "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\storeProducts\\bookmark1.jpeg",
+      "PackagePath": "staticwebassets\\storeProducts\\bookmark1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\storeProducts\\bookmark2.jpeg",
+      "PackagePath": "staticwebassets\\storeProducts\\bookmark2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\storeProducts\\bookmark3.jpeg",
+      "PackagePath": "staticwebassets\\storeProducts\\bookmark3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\storeProducts\\print1.jpeg",
+      "PackagePath": "staticwebassets\\storeProducts\\print1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\storeProducts\\sticker1.jpeg",
+      "PackagePath": "staticwebassets\\storeProducts\\sticker1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\OneDrive\\Documents\\Coding\\Projects\\source\\repos\\C# Projects\\Dessine Moi\\DessineMoi\\wwwroot\\storeProducts\\sticker2.jpeg",
+      "PackagePath": "staticwebassets\\storeProducts\\sticker2.jpeg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DessineMoi.Microsoft.AspNetCore.StaticWebAssets.props",
