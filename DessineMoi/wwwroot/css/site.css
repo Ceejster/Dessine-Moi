@@ -1456,30 +1456,50 @@ main > .container {
     padding-top: 1rem;
 }
 
-.image-container {
+.image-blowup {
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     width: 100%;
-    height: 200px; /* Adjust the height as needed */
+    min-height: 250px; /* Adjust the height as needed */
     overflow: hidden;
-    transition: all 0.3s ease-in-out; /* Smooth transition */
 }
 
+@media (min-width: 1200px) {
+    .image-blowup img {
+        height: 300px;
+        width: auto;
+    }
+}
+
+@media (min-width: 768px) {
+    .image-blowup img {
+        height: 300px;
+        width: auto;
+    }
+}
+
+.spacer {
+    margin-bottom: 5rem;
+}
+
+/*
+    IF WANT HOVER BACK
+
     .image-container:hover {
-        transform: scale(1.1); /* Increase size by 10% on hover */
+        transform: scale(1.1); 
     }
 
-    .image-container img {
-        max-width: 100%; /* Ensure image doesn't exceed container width */
-        max-height: 100%; /* Ensure image doesn't exceed container height */
+    .image-blowup img {
+        max-width: 100%; 
+        max-height: 100%; 
         width: auto;
         height: auto;
     }
 
 
 .image-container:hover {
-    transform: scale(1.9); /* Increase size by 10% on hover */
+    transform: scale(1.9);   */
 }
 
 
